@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.css"
 import App from "./App";
 // import NavBar from "./NavBar";
 import "./index.css"
+import "font-awesome/css/font-awesome.css"
 
 // var element = <button class="btn btn-danger"> Hello World</button>
 
